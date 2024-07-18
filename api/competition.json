@@ -1,0 +1,75 @@
+{
+  "code": 0,
+  "msg": "",
+  "count": 1000,
+  "data": [
+    {
+      "type": "创新类",
+      "year": "2024",
+      "title": "如何使用layui制作UOLab实验室前端页面？",
+      "groupleader": "张三",
+      "groupmember": "李四，王五",
+      "wingrade": "一等奖",
+      "teacher": "圣老师"
+
+    },{
+      "type": "创新类",
+      "year": "2024",
+      "title": "如何使用layui制作UOLab实验室前端页面？",
+      "groupleader": "张三",
+      "groupmember": "李四，王五",
+      "wingrade": "一等奖",
+      "teacher": "圣老师"
+
+    },
+    {
+      "type": "创新类",
+      "year": "2024",
+      "title": "如何使用layui制作UOLab实验室前端页面？",
+      "groupleader": "张三",
+      "groupmember": "李四，王五",
+      "wingrade": "一等奖",
+      "teacher": "圣老师"
+
+    },
+    {
+      "type": "创新类",
+      "year": "2024",
+      "title": "如何使用layui制作UOLab实验室前端页面？",
+      "groupleader": "张三",
+      "groupmember": "李四，王五",
+      "wingrade": "一等奖",
+      "teacher": "圣老师"
+
+    },
+    {
+      "type": "创新类",
+      "year": "2024",
+      "title": "如何使用layui制作UOLab实验室前端页面？",
+      "groupleader": "张三",
+      "groupmember": "李四，王五",
+      "wingrade": "一等奖",
+      "teacher": "圣老师"
+
+    },
+    {
+      "type": "创新类",
+      "year": "2024",
+      "title": "如何使用layui制作UOLab实验室前端页面？",
+      "groupleader": "张三",
+      "groupmember": "李四，王五",
+      "wingrade": "一等奖",
+      "teacher": "圣老师"
+
+    },
+    {
+      "type": "创新类",
+      "year": "2024",
+      "title": "如何使用layui制作UOLab实验室前端页面？",
+      "groupleader": "张三",
+      "groupmember": "李四，王五",
+      "wingrade": "一等奖",
+      "teacher": "圣老师"
+    }
+  ]
+}

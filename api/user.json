@@ -1,0 +1,127 @@
+{
+  "code": 0,
+  "msg": "",
+  "count": 1000,
+  "data": [
+    {
+      "id": 10001,
+      "username": "zhangsan",
+      "name": "张三",
+      "college": "太原科技大学",
+      "major": "计算机科学与技术",
+      "class": "计科一班",
+      "grade": "2022",
+      "phone": "13454567873",
+      "qq": "425487857",
+      "status": 1
+    },
+    {
+      "id": 10002,
+      "username": "zhangsan",
+      "name": "张三",
+      "college": "太原科技大学",
+      "major": "计算机科学与技术",
+      "class": "计科一班",
+      "grade": "2022",
+      "phone": "13454567873",
+      "qq": "425487857",
+      "status": 0
+    },
+    {
+      "id": 10003,
+      "username": "zhangsan",
+      "name": "张三",
+      "college": "太原科技大学",
+      "major": "计算机科学与技术",
+      "class": "计科一班",
+      "grade": "2022",
+      "phone": "13454567873",
+      "qq": "425487857",
+      "status": 1
+    },
+    {
+      "id": 10004,
+      "username": "zhangsan",
+      "name": "张三",
+      "college": "太原科技大学",
+      "major": "计算机科学与技术",
+      "class": "计科一班",
+      "grade": "2022",
+      "phone": "13454567873",
+      "qq": "425487857",
+      "status": 1
+    },
+    {
+      "id": 10005,
+      "username": "zhangsan",
+      "name": "张三",
+      "college": "太原科技大学",
+      "major": "计算机科学与技术",
+      "class": "计科一班",
+      "grade": "2022",
+      "phone": "13454567873",
+      "qq": "425487857",
+      "status": 1
+    },
+    {
+      "id": 10006,
+      "username": "zhangsan",
+      "name": "张三",
+      "college": "太原科技大学",
+      "major": "计算机科学与技术",
+      "class": "计科一班",
+      "grade": "2022",
+      "phone": "13454567873",
+      "qq": "425487857",
+      "status": 0
+    },
+    {
+      "id": 10007,
+      "username": "zhangsan",
+      "name": "张三",
+      "college": "太原科技大学",
+      "major": "计算机科学与技术",
+      "class": "计科一班",
+      "grade": "2022",
+      "phone": "13454567873",
+      "qq": "425487857",
+      "status": 0
+    },
+    {
+      "id": 10008,
+      "username": "zhangsan",
+      "name": "张三",
+      "college": "太原科技大学",
+      "major": "计算机科学与技术",
+      "class": "计科一班",
+      "grade": "2022",
+      "phone": "13454567873",
+      "qq": "425487857",
+      "status": 1
+    },
+    {
+      "id": 10009,
+      "username": "zhangsan",
+      "name": "张三",
+      "college": "太原科技大学",
+      "major": "计算机科学与技术",
+      "class": "计科一班",
+      "grade": "2022",
+      "phone": "13454567873",
+      "qq": "425487857",
+      "status": 0
+    },
+    {
+      "id": 10010,
+      "username": "zhangsan",
+      "name": "张三",
+      "college": "太原科技大学",
+      "major": "计算机科学与技术",
+      "class": "计科一班",
+      "grade": "2022",
+      "phone": "13454567873",
+      "qq": "425487857",
+      "status": 1
+    }
+  ]
+}
